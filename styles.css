@@ -42,6 +42,10 @@ body{
 	width: 100%;
 	background-color: aliceblue;
 }
+.list:hover{
+	background-color: #b13939;
+	color: aliceblue;
+}
 .list p{
 padding-left: 20px;
 font-weight: 900;
